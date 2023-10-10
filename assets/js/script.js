@@ -1,4 +1,4 @@
-const url = "https://api.orgdestiny.me/xyz/476434057677504513"
+const url = "https://api.orgdestiny.com/xyz/476434057677504513"
 
 let func = async (dateGuildSince) => {
     // CURRENT TIME BOOST IN SERVER
